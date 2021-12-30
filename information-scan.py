@@ -13,7 +13,7 @@ print(Fore.RED + """
 
  [ 5 ] { SNMP-CHECK }
 
-CODED + BY + SAEP 
+CODED + BY + Furkan 
 """)
 
 isc = input(Fore.BLUE + "["+ Fore.GREEN + " ENTER YOUR SELECTION " + Fore.BLUE + "] : ")
