@@ -15,7 +15,7 @@ print(Fore.RED + """
 
  [ 6 ] { WİFİTE }
 
-CODED + BY + SAEP 
+CODED + BY + Furkan 
 """)
 
 network = input(Fore.BLUE + "["+ Fore.GREEN + " ENTER YOUR SELECTION " + Fore.BLUE + "] : ")
