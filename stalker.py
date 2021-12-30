@@ -155,9 +155,9 @@ elif stalk == "6":
 	print(Fore.RED + """
 MERHABA BEN FURKAN KEREM,15 YAŞINDAYIM. TÜRKİYEDE SİBER GÜVENLİK İLE UĞRAŞIYORUM.
 
-İNSTAGRAM ADRESİM ==> @saepsecurity
+İNSTAGRAM ADRESİM ==> @security.fk
 
-GİTHUB ADRESİM ==> github.com/saepsh/
+GİTHUB ADRESİM ==> github.com/securityfk/
 
-MAİL ADRESİM ==> saepsecurity@protonmail.com
+MAİL ADRESİM ==> securityfk@protonmail.com
 """)
