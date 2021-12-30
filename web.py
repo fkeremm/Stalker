@@ -17,7 +17,7 @@ print(Fore.RED + """
 
  [ 7 ] { WAPITI }
 
-CODED + BY + SAEP 
+CODED + BY + Furkan 
 """)
 
 web = input(Fore.BLUE + "["+ Fore.GREEN + " ENTER YOUR SELECTION " + Fore.BLUE + "] : ")
