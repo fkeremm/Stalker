@@ -1,5 +1,8 @@
 # Stalker
-``apt install git && apt install python python2 -y && git clone https://github.com/saepsh/Stalker/ && cd Stalker/ && python3 stalker.py``
+``apt install git && apt install python python2 -y && git clone https://github.com/securityfk/Stalker/ && cd Stalker/ && python3 stalker.py``
 
-## Instagram
-> [INSTAGRAM](https://www.instagram.com/saepsecurity/)
+## My
+I'm Furkan Kerem, 14 years old, cyber security expert.
+
+
+> [INSTAGRAM](https://Instagram.com/security.fk/)
