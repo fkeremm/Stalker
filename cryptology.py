@@ -6,7 +6,7 @@ print(Fore.RED + """
  [ MD5 ] { SHA1 }
 
 
-CODED + BY + SAEP 
+CODED + BY + Furkan 
 """)
 
 cryptology = input(Fore.BLUE + "["+ Fore.GREEN + " Word To Be Encrypted " + Fore.BLUE + "] : ")
